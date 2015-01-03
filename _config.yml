@@ -1,20 +1,20 @@
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink:            pretty
+relative_permalinks:  true
 
 # Excerpt
-excerpt_separator:  <!--excerpt-end-->
+excerpt_separator:    <!--excerpt-end-->
 
 # Conversion
-highlighter:      rouge
+highlighter:          rouge
 
 # Setup
-title:            Julian Grosshauser
-tagline:          Software Engineer
-url:              https://juliangrosshauser.com
-paginate:         5
-baseurl:          /
+title:                Julian Grosshauser
+tagline:              Software Engineer
+url:                  https://juliangrosshauser.com
+paginate:             5
+baseurl:              /
 author:
-  name:           Julian Grosshauser
-  url:            https://juliangrosshauser.com
-  email:          julian@juliangrosshauser.com
+  name:               Julian Grosshauser
+  url:                https://juliangrosshauser.com
+  email:              julian@juliangrosshauser.com
