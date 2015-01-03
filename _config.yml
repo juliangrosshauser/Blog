@@ -2,18 +2,16 @@
 permalink:        pretty
 relative_permalinks: true
 
+# Excerpt
+excerpt_separator:  <!--excerpt-end-->
+
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
-paginate:         1
+title:            Julian Grosshauser
+tagline:          Software Engineer
+url:              https://juliangrosshauser.com
+paginate:         5
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
-
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/poole/poole
+  name:           Julian Grosshauser
+  url:            https://juliangrosshauser.com
+  email:          julian@juliangrosshauser.com
