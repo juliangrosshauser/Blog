@@ -5,6 +5,9 @@ relative_permalinks: true
 # Excerpt
 excerpt_separator:  <!--excerpt-end-->
 
+# Conversion
+highlighter:      rouge
+
 # Setup
 title:            Julian Grosshauser
 tagline:          Software Engineer
