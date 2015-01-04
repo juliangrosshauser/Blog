@@ -10,7 +10,6 @@ highlighter:          rouge
 
 # Setup
 title:                Julian Grosshauser
-tagline:              Software Engineer
 url:                  https://juliangrosshauser.com
 paginate:             5
 baseurl:              /
