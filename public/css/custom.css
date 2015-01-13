@@ -49,6 +49,10 @@ a:focus {
   vertical-align: middle;
 }
 
+.masthead-title a {
+  border-bottom: 0;
+}
+
 .masthead-title img {
   display: inline;
   float: left;
