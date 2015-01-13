@@ -31,6 +31,10 @@ blockquote {
   border-left-color: #ddd;
 }
 
+.post-date {
+  margin-top: 0;
+}
+
 a {
   color: #515151;
   border-bottom: 2px solid #ddd;
