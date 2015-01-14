@@ -21,12 +21,6 @@ code {
   font-size: 0.8rem;
 }
 
-pre {
-  font-size: 0.75rem;
-  background-color: white;
-  border-left: .25rem solid #ddd;
-}
-
 blockquote {
   border-left-color: #ddd;
 }
