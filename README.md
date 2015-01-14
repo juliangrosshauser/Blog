@@ -2,7 +2,9 @@
 
 Jekyll Theme - Based on [Poole]("http://getpoole.com")
 
+> Gabriel John Utterson, a lawyer and loyal friend of Jekyll's, is the character the narrator focuses on, and follows in Utterson's quest to discover the identity of Hyde.
 
+Excerpt from [Wikipedia](http://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde#Gabriel_John_Utterson)
 
 ## License
 
