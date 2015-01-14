@@ -1,6 +1,6 @@
 # Utterson
 
-Based on [Poole]("http://getpoole.com")
+Jekyll Theme - Based on [Poole]("http://getpoole.com")
 
 ---
 
