@@ -1,4 +1,4 @@
-# Jekyll Setup
+# Utterson
 
 Based on [Poole]("http://getpoole.com")
 
