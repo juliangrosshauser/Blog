@@ -27,7 +27,6 @@ blockquote {
 
 .post-date {
   display: inline-block;
-  margin-top: 0;
   color: #c9c9c9;
   font-size: 85%;
   transition: all .2s ease-in-out;
