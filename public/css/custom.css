@@ -26,14 +26,9 @@ blockquote {
 }
 
 .post-date {
-  display: inline-block;
+  display: block;
   color: #c9c9c9;
   font-size: 85%;
-  transition: all .2s ease-in-out;
-}
-
-.post-date:hover {
-  color: #9a9a9a;
 }
 
 a {
