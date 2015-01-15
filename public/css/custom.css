@@ -43,6 +43,14 @@ a:focus {
   border-bottom-color: #8c8c8c;
 }
 
+article.post {
+  margin-top: 2rem;
+}
+
+article.post > .post-date {
+  margin-bottom: 2rem;
+}
+
 .post-title a {
   border-bottom: 0;
 }
