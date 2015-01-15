@@ -6,6 +6,10 @@
   <body>
 
     <div class="container content">
+      {% if page.title == 'Home' %}
+        {% include header.html %}
+      {% endif %}
+
       <main>
         {{ content }}
       </main>
