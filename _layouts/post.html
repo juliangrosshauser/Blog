@@ -4,6 +4,8 @@ layout: default
 
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_long_string }}</time>
+  <div class="post-date">
+    <span >Written on</span> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time>
+  </div>
   {{ content }}
 </article>
