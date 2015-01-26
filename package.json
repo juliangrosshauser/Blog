@@ -1,0 +1,32 @@
+{
+  "name": "juliangrosshauser.com",
+  "version": "0.1.0",
+  "description": "juliangrosshauser.com",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliangrosshauser/juliangrosshauser.com"
+  },
+  "keywords": [
+    "jekyll"
+  ],
+  "author": {
+    "name": "Julian Grosshauser",
+    "email": "julian@juliangrosshauser.com",
+    "url": "https://juliangrosshauser.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliangrosshauser/juliangrosshauser.com/issues"
+  },
+  "homepage": "https://juliangrosshauser.com",
+  "devDependencies": {
+    "browser-sync": "^1.9.1",
+    "del": "^1.1.1",
+    "gulp": "^3.8.10"
+  }
+}
