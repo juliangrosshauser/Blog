@@ -44,7 +44,8 @@ a:focus {
   margin: 1rem 0;
 }
 
-.masthead-title a {
+.masthead-title a,
+.post-title a {
   color: #0fa5d8;
 }
 
