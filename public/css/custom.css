@@ -44,6 +44,10 @@ a:focus {
   margin: 1rem 0;
 }
 
+.masthead-title a {
+  color: #0fa5d8;
+}
+
 .page,
 .post {
   margin-bottom: 2rem;
