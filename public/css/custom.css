@@ -44,6 +44,11 @@ a:focus {
   margin: 1rem 0;
 }
 
+.page,
+.post {
+  margin-bottom: 2rem;
+}
+
 footer {
   margin-bottom: 2rem;
   color: #c9c9c9;
