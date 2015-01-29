@@ -32,15 +32,12 @@ blockquote {
 }
 
 a {
-  color: #515151;
-  border-bottom: 2px solid #ddd;
-  transition: all .2s ease-in-out;
+  color: #0FA5D8;
 }
 
 a:hover,
 a:focus {
   text-decoration: none;
-  border-bottom-color: #8c8c8c;
 }
 
 article.post > .post-title {
@@ -51,10 +48,6 @@ article.post > .post-date {
   margin-bottom: 3rem;
 }
 
-.post-title a {
-  border-bottom: 0;
-}
-
 .masthead {
   margin-bottom: 3rem;
 }
@@ -63,10 +56,6 @@ article.post > .post-date {
   height: 50px;
   line-height: 50px;
   vertical-align: middle;
-}
-
-.masthead-title a {
-  border-bottom: 0;
 }
 
 .masthead-title img {
