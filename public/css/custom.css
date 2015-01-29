@@ -44,13 +44,11 @@ a:focus {
 }
 
 article.post > .post-title {
-  text-align: center;
   margin-bottom: 1rem;
 }
 
 article.post > .post-date {
   margin-bottom: 3rem;
-  text-align: center;
 }
 
 .post-title a {
@@ -82,5 +80,4 @@ article.post > .post-date {
 footer {
   margin-bottom: 2rem;
   color: #c9c9c9;
-  text-align: center;
 }
