@@ -44,12 +44,6 @@ a:focus {
   margin: 1rem 0;
 }
 
-.masthead-title {
-  height: 50px;
-  line-height: 50px;
-  vertical-align: middle;
-}
-
 .masthead-title img {
   display: inline;
   float: left;
