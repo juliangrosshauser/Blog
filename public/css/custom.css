@@ -40,14 +40,6 @@ a:focus {
   text-decoration: none;
 }
 
-article.post > .post-title {
-  margin-bottom: 1rem;
-}
-
-article.post > .post-date {
-  margin-bottom: 3rem;
-}
-
 .masthead {
   margin-bottom: 3rem;
 }
