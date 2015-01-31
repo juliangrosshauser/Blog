@@ -12,7 +12,9 @@ title: Home
       </a>
     </h1>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_long_string }}</time>
+    <div class="post-date">
+      <span>Published on</span> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>
+    </div>
 
     {{ post.excerpt }}
   </article>
