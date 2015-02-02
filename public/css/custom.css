@@ -77,3 +77,38 @@ footer {
   margin-bottom: 2rem;
   color: #c9c9c9;
 }
+
+.about {
+  margin: 3rem 0;
+  height: 100px;
+}
+
+.about:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.about * {
+  margin: 0;
+}
+
+.about a {
+  display: block;
+}
+
+.about h4 {
+  margin-bottom: 1rem;
+}
+
+.about img {
+  border-radius: 0.25rem;
+  float: left;
+  margin-right: 1.5rem;
+}
+
+.about .text {
+  display: inline-block;
+  vertical-align: middle;
+}
