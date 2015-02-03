@@ -9,3 +9,18 @@ layout: default
   </div>
   {{ content }}
 </article>
+
+<aside class="related">
+  <h3>What to read next</h3>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h4>
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h4>
+      </li>
+    {% endfor %}
+  </ul>
+</aside>

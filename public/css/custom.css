@@ -73,6 +73,22 @@ a:focus {
   margin-bottom: 2rem;
 }
 
+.related {
+  padding: 2rem 0;
+}
+
+.related h3 {
+  margin-top: 0;
+}
+
+.related-posts {
+  margin: 0;
+}
+
+.related-posts h4 {
+  margin-top: 0;
+}
+
 footer {
   margin-bottom: 2rem;
   color: #c9c9c9;
