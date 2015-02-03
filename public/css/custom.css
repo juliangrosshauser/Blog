@@ -92,6 +92,7 @@ a:focus {
 footer {
   margin-bottom: 2rem;
   color: #c9c9c9;
+  border-top: 1px solid #eee;
 }
 
 .about {
