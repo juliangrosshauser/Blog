@@ -16,7 +16,9 @@ title: Home
       <span>Published on</span> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>
     </div>
 
-    {{ post.excerpt }}
+    <div class="excerpt">
+      {{ post.excerpt }}
+    </div>
   </article>
   {% endfor %}
 </div>
