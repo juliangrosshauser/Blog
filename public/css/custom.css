@@ -75,6 +75,30 @@ a:focus {
   margin-bottom: 2rem;
 }
 
+.pagination {
+  margin: 2rem 0;
+}
+
+.pagination-item {
+  display: block;
+  width: 6rem;
+  padding: 0.3rem 0.1rem;
+  border: 1px solid #eee;
+  border-radius: 0.2rem;
+  font-size: 0.9rem;
+}
+
+.pagination-item:first-child {
+  float: left;
+}
+.pagination-item:last-child {
+  float: right;
+}
+
+span.pagination-item {
+  display: none;
+}
+
 .related {
   padding: 2rem 0;
 }
