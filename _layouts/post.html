@@ -10,6 +10,7 @@ layout: default
   {{ content }}
 </article>
 
+{% unless site.related_posts == empty %}
 <aside class="related">
   <h3>What to read next</h3>
   <ul class="related-posts">
@@ -24,3 +25,4 @@ layout: default
     {% endfor %}
   </ul>
 </aside>
+{% endunless %}
