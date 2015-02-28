@@ -109,6 +109,10 @@ a.pagination-item {
   border-color: #0fa5d8;
 }
 
+a.pagination-item:hover {
+  background-color: transparent;
+}
+
 .pagination-item:first-child {
   float: left;
   margin-bottom: 2rem;
