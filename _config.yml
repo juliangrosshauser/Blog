@@ -16,7 +16,7 @@ highlighter:          rouge
 # Setup
 title:                Julian Grosshauser
 url:                  https://juliangrosshauser.com
-paginate:             5
+paginate:             3
 baseurl:              /
 author:
   name:               Julian Grosshauser
