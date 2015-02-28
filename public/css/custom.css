@@ -104,6 +104,10 @@ a:focus {
   font-size: 0.9rem;
 }
 
+a.pagination-item {
+  border-color: #0fa5d8;
+}
+
 .pagination-item:first-child {
   float: left;
   margin-bottom: 2rem;
