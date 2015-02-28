@@ -59,6 +59,14 @@ a:focus {
   text-decoration: none;
 }
 
+.left-arrow {
+  margin-right: 0.3rem;
+}
+
+.right-arrow {
+  margin-left: 0.3rem;
+}
+
 .masthead {
   padding: 0;
   margin: 2rem 0;
