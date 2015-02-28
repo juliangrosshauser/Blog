@@ -85,6 +85,10 @@ a:focus {
   margin-bottom: 2rem;
 }
 
+.post:last-of-type {
+  margin-bottom: 0;
+}
+
 .pagination {
   margin: 2rem 0;
 }
