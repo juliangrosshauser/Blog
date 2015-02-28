@@ -1,7 +1,10 @@
 # Exclude
 exclude:
+  - README.md
+  - LICENSE
   - node_modules
   - gulpfile.js
+  - package.json
 
 # Permalinks
 permalink:            pretty
