@@ -121,11 +121,12 @@ a.pagination-item:hover {
   background-color: transparent;
 }
 
-.pagination-item:first-child {
+.pagination-item.older {
   float: left;
   margin-bottom: 2rem;
 }
-.pagination-item:last-child {
+
+.pagination-item.newer {
   float: right;
 }
 
