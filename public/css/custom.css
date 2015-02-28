@@ -60,9 +60,8 @@ a:focus {
 }
 
 .masthead {
-  padding: 0 0 1rem;
-  margin: 1rem 0;
-  border-bottom: 1px solid #eee;
+  padding: 0;
+  margin: 2rem 0;
 }
 
 .masthead-title a,
