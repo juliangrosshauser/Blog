@@ -150,13 +150,14 @@ span.pagination-item {
 }
 
 footer {
+  padding-top: 2rem;
   margin-bottom: 2rem;
   color: #c9c9c9;
   border-top: 1px solid #eee;
 }
 
 .about {
-  margin: 3rem 0;
+  margin-bottom: 2rem;
   height: 100px;
 }
 
