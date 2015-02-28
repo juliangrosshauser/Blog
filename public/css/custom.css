@@ -105,16 +105,10 @@ a:focus {
   display: block;
   width: 6rem;
   padding: 0.3rem 0.1rem;
-  margin-top: 1rem;
-  margin-bottom: 2rem;
-  border: 1px solid #eee;
+  border: 1px solid #0fa5d8;
   border-radius: 0.2rem;
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 0.9rem;
-}
-
-a.pagination-item {
-  border-color: #0fa5d8;
 }
 
 a.pagination-item:hover {
@@ -123,15 +117,12 @@ a.pagination-item:hover {
 
 .pagination-item.older {
   float: left;
-  margin-bottom: 2rem;
+  margin: 1rem 0 2rem;
 }
 
 .pagination-item.newer {
   float: right;
-}
-
-span.pagination-item {
-  display: none;
+  margin: 1rem 0 2rem;
 }
 
 .related {
