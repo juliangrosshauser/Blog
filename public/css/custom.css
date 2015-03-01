@@ -173,12 +173,31 @@ footer {
 }
 
 .about img {
+  height: 70px;
+  width: 70px;
   border-radius: 0.25rem;
   float: left;
-  margin-right: 1.5rem;
+  margin-right: 0.5rem;
+  margin-top: 15px;
+}
+
+@media (min-width: 30em) {
+  .about img {
+    height: 100px;
+    width: 100px;
+    margin-right: 1.5rem;
+    margin-top: 0;
+  }
 }
 
 .about .text {
   display: inline-block;
   vertical-align: middle;
+  font-size: 80%;
+}
+
+@media (min-width: 30em) {
+  .about .text {
+    font-size: 100%;
+  }
 }
